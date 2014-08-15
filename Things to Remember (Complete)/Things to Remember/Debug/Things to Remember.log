@@ -1,0 +1,45 @@
+﻿Build started 6/27/2014 12:32:59 PM.
+     1>Project "C:\Users\Matt\Documents\Visual Studio 2013\Projects\Things to Remember\Things to Remember\Things to Remember.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CButton.cpp CGame.cpp CInGameState.cpp CIntroState.cpp CLevel.cpp CMenuState.cpp CParticle.cpp CParticleSys.cpp CPlayer.cpp CPSysMan.cpp CStartMenuState.cpp CTile.cpp Debug.cpp Globals.cpp LevelManager.cpp Main.cpp
+         Main.cpp
+         LevelManager.cpp
+         Globals.cpp
+         Debug.cpp
+         CTile.cpp
+         CStartMenuState.cpp
+         CPSysMan.cpp
+         CPlayer.cpp
+         CParticleSys.cpp
+         CParticle.cpp
+         CMenuState.cpp
+         CLevel.cpp
+         CIntroState.cpp
+         CInGameState.cpp
+         CGame.cpp
+         CButton.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Matt\Documents\Visual Studio 2013\Projects\Things to Remember\Debug\Things to Remember.exe" /INCREMENTAL /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_ttf.lib SDL_mixer.lib sdlgfx.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Matt\Documents\Visual Studio 2013\Projects\Things to Remember\Debug\Things to Remember.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Matt\Documents\Visual Studio 2013\Projects\Things to Remember\Debug\Things to Remember.lib" /MACHINE:X86 Debug\CButton.obj
+         Debug\CGame.obj
+         Debug\CInGameState.obj
+         Debug\CIntroState.obj
+         Debug\CLevel.obj
+         Debug\CMenuState.obj
+         Debug\CParticle.obj
+         Debug\CParticleSys.obj
+         Debug\CPlayer.obj
+         Debug\CPSysMan.obj
+         Debug\CStartMenuState.obj
+         Debug\CTile.obj
+         Debug\Debug.obj
+         Debug\Globals.obj
+         Debug\LevelManager.obj
+         Debug\Main.obj
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Things to Remember.vcxproj -> C:\Users\Matt\Documents\Visual Studio 2013\Projects\Things to Remember\Debug\Things to Remember.exe
+     1>Done Building Project "C:\Users\Matt\Documents\Visual Studio 2013\Projects\Things to Remember\Things to Remember\Things to Remember.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.10

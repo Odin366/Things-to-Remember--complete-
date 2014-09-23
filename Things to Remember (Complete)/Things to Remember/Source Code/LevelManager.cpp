@@ -68,7 +68,7 @@ void LevelMan::StartNextLevel()
 		break;
 
 	case 7:
-		curLevel->SetMessage("I love you, Alana Ridge.");
+		curLevel->SetMessage("I love you.");
 		break;
 	}
 
